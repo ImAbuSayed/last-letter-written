@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I found the words I couldn't speak out loud
+> Lost on a highway driving through the crowd
+> This ink is fading but the fire is new
+> I wrote this midnight melody for you
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
